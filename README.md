@@ -1,5 +1,5 @@
 # ece231-rep1
-Test
+This is an example repo to test git.
 
 ## To compile
 	make
